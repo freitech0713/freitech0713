@@ -1,5 +1,5 @@
 # Enginnering Student in Japan👋
-### Feel free to contact me anytime!👍
+
 #
 ![Freitech's GitHub stats](https://github-readme-stats.vercel.app/api?username=freitech0713&show_icons=true&theme=vue-dark)
 
